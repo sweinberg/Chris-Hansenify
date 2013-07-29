@@ -1,6 +1,6 @@
 # Chris Hansenify
 
-**Chris Hansenify** is a simple Javascript bookmarklet that displays a stern looking Chris Hansen, former host of MSNBC's *To Catch A Predator*, on the left side of your browser screen. If you find yourself viewing questionable content online, simply click the bookmarklet and "have a seat over there."
+**Chris Hansenify** is a Javascript bookmarklet that displays a photo of Chris Hansen on the left side of a browser window, when clicked on.
 
 
 **Note:** try it out by saving the following as a bookmark and clicking on it:
