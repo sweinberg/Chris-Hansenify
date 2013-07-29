@@ -1,6 +1,6 @@
 # Chris Hansenify
 
-**Chris Hansenify** is a Javascript bookmarklet that displays a photo of Chris Hansen on the left side of a browser window, when clicked on.
+**Chris Hansenify** is a Javascript bookmarklet that displays a photo of Chris Hansen on the left side of a browser window.
 
 
 **Note:** try it out by saving the following as a bookmark and clicking on it:
